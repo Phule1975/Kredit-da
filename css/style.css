@@ -1,0 +1,7 @@
+.header {
+    width: 1920px;
+    height: 150px;
+    background: red;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
