@@ -5,3 +5,11 @@
     margin: 0 auto;
     box-sizing: border-box;
 }
+
+.ruda {
+    font-family: 'Ruda', sans-serif
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
